@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="weight">Weight (kg):</string>
+    <string name="height">Height (m):</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="body_image">Body Image</string>
+    <string name="title">BMI Calculator</string>
+</resources>
